@@ -1,0 +1,25 @@
+{
+    "theme": {
+      "extend": {
+        "colors": {
+          "brand": "#4f46e5",
+          "success": "#22c55e",
+          "danger": "#ef4444",
+          "neutral": "#6b7280",
+  
+          "light-bg": "#ffffff",
+          "light-text": "#000000",
+  
+          "dark-bg": "#111827",
+          "dark-text": "#f9fafb",
+  
+          "pink-bg": "#fce7f3",
+          "pink-text": "#9d174d",
+  
+          "blue-bg": "#dbeafe",
+          "blue-text": "#1e3a8a"
+        }
+      }
+    }
+  }
+  
